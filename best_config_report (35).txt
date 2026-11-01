@@ -1,0 +1,12 @@
+Best config: SVM_RBF, k=500 genes
+
+                precision    recall  f1-score   support
+
+Differentiated       0.62      0.77      0.69        13
+Immunoreactive       0.93      0.81      0.87        16
+   Mesenchymal       0.93      0.93      0.93        15
+ Proliferative       0.79      0.73      0.76        15
+
+      accuracy                           0.81        59
+     macro avg       0.82      0.81      0.81        59
+  weighted avg       0.83      0.81      0.82        59

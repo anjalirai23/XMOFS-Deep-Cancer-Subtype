@@ -1,0 +1,10 @@
+                precision    recall  f1-score   support
+
+Differentiated       0.75      0.69      0.72        13
+Immunoreactive       0.93      0.81      0.87        16
+   Mesenchymal       0.75      0.80      0.77        15
+ Proliferative       0.76      0.87      0.81        15
+
+      accuracy                           0.80        59
+     macro avg       0.80      0.79      0.79        59
+  weighted avg       0.80      0.80      0.80        59

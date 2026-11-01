@@ -1,0 +1,6 @@
+comparison,description,n_pairs,mean_F1_diff (first - second),wins,ties,losses,p_value,p_holm,significant_at_0.05
+A vs B,Deep net vs SVM (same XMOFS genes): does the deep classifier help?,10,-0.015338340503889025,3,0,7,0.232421875,0.26171875,False
+B vs C,XMOFS genes vs ANOVA genes (same SVM): are XMOFS genes better?,10,0.03160763415659844,9,0,1,0.009765625,0.0390625,True
+B vs D,XMOFS genes vs random genes (same SVM): better than chance?,10,0.11413675778493149,9,0,1,0.00390625,0.01953125,True
+A vs C,XMOFS-Deep vs classical filter+SVM at the same k (overall),10,0.016269293652709415,8,0,2,0.083984375,0.251953125,False
+A vs E,With vs without sparsity penalty (note: gene counts differ),10,-0.03552574811012714,4,0,6,0.130859375,0.26171875,False

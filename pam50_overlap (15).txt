@@ -1,0 +1,4 @@
+Selected genes: 18
+PAM50 genes among selected: 0
+
+PAM50 genes present in cleaned data: 0

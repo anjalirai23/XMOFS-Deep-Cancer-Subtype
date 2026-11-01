@@ -1,0 +1,5 @@
+lambda=0.003889976925535, gate_lr=0.1156308973241454
+Selected genes: 18
+Full gated model test acc=0.7627, F1-macro=0.7605
+Reduced net test acc=0.7966, F1-macro=0.7933
+PAM50 genes among selected: 0

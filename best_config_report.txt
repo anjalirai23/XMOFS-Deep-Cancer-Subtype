@@ -1,0 +1,13 @@
+Best config: SVM_RBF, k=500 genes
+
+               precision    recall  f1-score   support
+
+   Basal-like       1.00      1.00      1.00        34
+HER2-enriched       0.88      0.88      0.88        16
+    Luminal A       0.99      0.89      0.94       100
+    Luminal B       0.76      0.97      0.86        40
+  Normal-like       1.00      0.86      0.92         7
+
+     accuracy                           0.92       197
+    macro avg       0.93      0.92      0.92       197
+ weighted avg       0.94      0.92      0.93       197

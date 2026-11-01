@@ -1,0 +1,3 @@
+genes selected: 18
+selected genes: C17orf60, C7orf10, CENPO, CENPQ, ENGASE, GFPT2, GPR1, HERC5, IL15, KARS, KIAA1324L, LCP2, LDB2, MNDA, NASP, NPB, RAB3B, STX11
+test patients explained locally: [27, 16, 20, 15]

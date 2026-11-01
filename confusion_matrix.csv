@@ -1,0 +1,6 @@
+,Basal-like,HER2-enriched,Luminal A,Luminal B,Normal-like
+Basal-like,32,0,0,1,1
+HER2-enriched,0,13,0,1,2
+Luminal A,0,2,85,8,5
+Luminal B,0,4,6,29,1
+Normal-like,0,0,1,0,6

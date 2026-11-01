@@ -1,0 +1,4 @@
+Deep over Shallow: 0.0001
+Shallow over Deep: 0.0528
+Deep over Stage3:  0.0026
+Stage3 over Deep:  0.0022

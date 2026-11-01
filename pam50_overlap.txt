@@ -1,0 +1,4 @@
+Selected genes: 41
+PAM50 genes among selected: 4
+CEP55, ESR1, ERBB2, MLPH
+PAM50 genes present in cleaned data: 50

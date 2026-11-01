@@ -1,0 +1,10 @@
+Deep over Shallow: 0.0176
+Shallow over Deep: 0.0044
+Deep over Stage3:  0.0004
+Stage3 over Deep:  0.0724
+
+-- same comparison with log10(gene count) as objective 2 --
+Deep over Shallow (log): 0.0499
+Shallow over Deep (log): 0.0404
+Deep over Stage3 (log): 0.1117
+Stage3 over Deep (log): 0.0725

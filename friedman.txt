@@ -1,0 +1,9 @@
+Friedman test on test F1-macro over 10 repeated splits, 5 methods
+chi-square = 18.6400, p = 0.000925
+
+Mean rank (1 = best):
+  B: SVM on XMOFS genes  mean rank 2.10
+  E: Gated net, no sparsity (lambda=0)  mean rank 2.20
+  A: XMOFS-Deep gated net  mean rank 2.60
+  C: SVM on top-k ANOVA genes  mean rank 3.40
+  D: SVM on k random genes  mean rank 4.70

@@ -1,0 +1,4 @@
+method,hypervolume_log
+Stage 3: Filter-based (fixed k),0.6064130964371761
+Baseline #3: Shallow NSGA-II (LogReg),0.6361387601424582
+XMOFS-Deep: Deep gated NSGA-II,0.6456400914104923

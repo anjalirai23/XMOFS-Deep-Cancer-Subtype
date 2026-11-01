@@ -1,0 +1,14 @@
+Test accuracy: 0.8934
+Test F1-macro: 0.8502
+
+               precision    recall  f1-score   support
+
+   Basal-like       1.00      0.94      0.97        34
+HER2-enriched       0.82      0.88      0.85        16
+    Luminal A       0.97      0.87      0.92       100
+    Luminal B       0.79      0.93      0.85        40
+  Normal-like       0.55      0.86      0.67         7
+
+     accuracy                           0.89       197
+    macro avg       0.82      0.89      0.85       197
+ weighted avg       0.91      0.89      0.90       197

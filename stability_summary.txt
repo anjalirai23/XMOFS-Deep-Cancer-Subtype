@@ -1,0 +1,5 @@
+Usable repeats: 10/10
+Genes per run: mean 45.6, min 38, max 55
+Mean pairwise Jaccard: 0.009
+Distinct genes ever selected: 422; in >=50% of runs: 0
+PAM50 per panel: observed 1.90 vs chance 0.129; median per-run p=0.0095

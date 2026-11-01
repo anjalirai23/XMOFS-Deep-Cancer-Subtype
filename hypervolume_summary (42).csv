@@ -1,0 +1,4 @@
+method,hypervolume,n_front_points
+Stage 3: Filter-based (fixed k),0.8087399082040001,4
+Baseline #3: Shallow NSGA-II (LogReg),0.8618269271859894,10
+XMOFS-Deep: Deep gated NSGA-II,0.8090920026456013,7
